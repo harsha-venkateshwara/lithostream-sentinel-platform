@@ -98,9 +98,7 @@ docker compose up --build
 
 ### 3. Access services
 
-* Grafana → http://localhost:3000
-* Prometheus → http://localhost:9090
-* FastAPI → http://localhost:8000
+CURRENTLY WORKING ON DEPLOYMENT PART. The Results attached are from running the modules locally.
 
 
 ## API Endpoint
